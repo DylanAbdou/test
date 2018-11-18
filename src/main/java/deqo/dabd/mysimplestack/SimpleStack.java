@@ -4,6 +4,7 @@ import java.util.EmptyStackException;
 
 public interface SimpleStack {
 
+    //issue
     boolean isEmpty();
     int getSize();
     void push (Item item);
